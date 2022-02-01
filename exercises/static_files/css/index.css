@@ -1,0 +1,9 @@
+body div {
+  margin: auto;
+  width: 600px;
+}
+
+.cool-things-to-do {
+  background-color: blueviolet;
+  color: white;
+}
